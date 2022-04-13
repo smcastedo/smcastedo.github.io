@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: Santiago
 permalink: /about/
 published: true
 ---
@@ -11,6 +11,6 @@ Ciudadano del mundo, que reflexiona sobre todo lo que acontece en su día a día
 
 Estoy todavía desarrollando esta página personal, la expresión digital de mi persona. Que quede inmortalizada.
 
-### Conversemos
+### Charlemos
 
 [santiago@santiagomier.com](mailto:email@domain.com)
