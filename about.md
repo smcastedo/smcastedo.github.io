@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Ciudadano del mundo que reflexiona sobre todo lo que acontece en su día a día, medianamente obsesivo y crítico.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Estoy todavía desarrollando esta página personal, la expresión digital de mi persona. Que quede inmortalizada.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[santiago@santiagomier.com](mailto:email@domain.com)
