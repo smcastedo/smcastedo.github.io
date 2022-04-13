@@ -5,12 +5,12 @@ permalink: /about/
 published: true
 ---
 
-Ciudadano del mundo, que reflexiona sobre todo lo que acontece en su día a día, investigador, medianamente obsesivo y crítico.
+Ciudadano del mundo, que reflexiona sobre todo lo que acontece en su día a día, respetuoso de la ciencia, medianamente obsesivo y crítico.
 
-### Más información
+### ¿Por qué? o ¿Para qué?
 
-Estoy todavía desarrollando esta página personal, la expresión digital de mi persona. Que quede inmortalizada.
+Todavía estoy desarrollando esta página personal, la expresión digital de mi persona. Que quede inmortalizada.
 
-### Charlemos
+### Contacto
 
 [santiago@santiagomier.com](mailto:email@domain.com)
