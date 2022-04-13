@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Ciudadano del mundo, que reflexiona sobre todo lo que acontece en su día a día, medianamente obsesivo y crítico.
+Ciudadano del mundo, que reflexiona sobre todo lo que acontece en su día a día, investigador, medianamente obsesivo y crítico.
 
 ### Más información
 
