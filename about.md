@@ -5,8 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Digital Self-Expression
+**Digital Self-Expression**
 
-### Contact
 
 [santiago@santiagomier.com](mailto:email@domain.com)
