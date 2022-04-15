@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Ciudadano del mundo, reflexiona sobre todo lo que acontece en su día a día.
+Digital Self-Expression
 
 ### Contacto
 
