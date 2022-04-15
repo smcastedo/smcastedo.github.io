@@ -123,11 +123,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $white;
-  background: $darkGray;
+  background: $Gray;
 }
 ::selection {
   color: $black;
-  background: $darkGray;
+  background: $Gray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $indigo;
     }
   }
 }
