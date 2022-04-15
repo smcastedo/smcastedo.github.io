@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Cueva Digital
+title: ''
 published: true
 ---
 
 ![]({{site.baseurl}}/images/Cdigital.jpg)
+
