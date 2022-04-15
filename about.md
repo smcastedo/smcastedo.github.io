@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Ciudadano del mundo, que reflexiona sobre todo lo que acontece en su día a día, respetuoso de la ciencia, medianamente obsesivo y crítico.
+Ciudadano del mundo, reflexiona sobre todo lo que acontece en su día a día, respetuoso de la ciencia.
 
 ### ¿Por qué? o ¿Para qué?
 
-Todavía estoy desarrollando esta página personal, la expresión digital de mi persona. Que quede inmortalizada.
+Expresión digital de mi persona.
 
 ### Contacto
 
