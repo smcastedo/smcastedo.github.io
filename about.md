@@ -7,6 +7,6 @@ published: true
 
 Digital Self-Expression
 
-### Contacto
+### Contact
 
 [santiago@santiagomier.com](mailto:email@domain.com)
