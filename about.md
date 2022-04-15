@@ -5,11 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Ciudadano del mundo, reflexiona sobre todo lo que acontece en su día a día, respetuoso de la ciencia.
-
-### ¿Por qué? o ¿Para qué?
-
-Expresión digital de mi persona.
+Ciudadano del mundo, reflexiona sobre todo lo que acontece en su día a día.
 
 ### Contacto
 
