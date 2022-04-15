@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $Dgrey;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $Helvetica;
   color: $white;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $HelveticaNeue;
   color: $white;
   font-weight: bold;
 
@@ -46,6 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  text-align: center;
   a {
     color: inherit;
   }
