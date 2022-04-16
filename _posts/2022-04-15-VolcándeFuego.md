@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 published: true
 title: Fuego
 layout: post
@@ -12,5 +9,3 @@ layout: post
 
 ### Volcán de Fuego (visto desde el Acatenango)
 Capture Date: Dec 18, 2021
-
-
