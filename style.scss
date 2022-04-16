@@ -78,7 +78,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $azulito;
+    color: $midnigthblues;
   }
 }
 
@@ -237,7 +237,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $azulito;
+      color: $white;
     }
   }
 }
