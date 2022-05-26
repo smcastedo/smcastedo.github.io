@@ -8,4 +8,4 @@ published: true
 **Digital Self-Expression**
 
 
-[santiago@santiagomier.com](mailto:email@domain.com)
+[smier@santiagomier.com](mailto:email@domain.com)
