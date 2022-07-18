@@ -7,5 +7,5 @@ layout: post
 
 ![]({{site.baseurl}}/images/EscalerasCBODE.jpg)
 
-## Escalera
+### Escalera
 Aug 28, 2021.
