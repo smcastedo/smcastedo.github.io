@@ -1,6 +1,6 @@
 ---
 published: true
-title: ACATE
+title: Acate
 layout: post
 ---
 
@@ -8,5 +8,4 @@ layout: post
 ![]({{site.baseurl}}/images/IMG_2756-6-Yoenelvolcan.jpg)
 
 ### Descansando
-#### Photo credit: Diego Palacios
-Capture Date: May 15, 2022.
+May 15, 2022.
