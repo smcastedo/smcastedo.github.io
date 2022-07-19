@@ -1,5 +1,6 @@
 ---
 published: true
+title: Acate
 layout: post
 ---
 
