@@ -1,11 +1,7 @@
 ---
-published: true
-title: Acate
 layout: post
+title: Digital
+published: true
 ---
 
-
-![]({{site.baseurl}}/images/IMG_2756-6-Yoenelvolcan.jpg)
-
-### Descansando ❤️
-May 15, 2022.
+![]({{site.baseurl}}/images/Cdigital.jpg)
