@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sky
+title: Sky Valley
 layout: post
 ---
 
