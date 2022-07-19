@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital
+title: Digital Cave
 published: true
 ---
 
