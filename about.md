@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Santiago
+title: Santiago Mier Castedo
 permalink: /about/
 published: true
 ---
 
-**Self-Expression**
 
 
 [smier@santiagomier.com](mailto:email@domain.com)
