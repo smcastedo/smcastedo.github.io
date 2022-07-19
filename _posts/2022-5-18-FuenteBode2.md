@@ -1,11 +1,10 @@
 ---
 published: true
-title: Acate
+title: 🙏🏻
 layout: post
 ---
 
 
-![]({{site.baseurl}}/images/IMG_2756-6-Yoenelvolcan.jpg)
+![]({{site.baseurl}}/images/IMG_2770-2.jpg)
 
-### Descansando ❤️
 May 15, 2022.
