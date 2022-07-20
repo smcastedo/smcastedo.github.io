@@ -1,6 +1,6 @@
 ---
 published: true
-title: 🙏🏻
+title: Bode
 layout: post
 ---
 
