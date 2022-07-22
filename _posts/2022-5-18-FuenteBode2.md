@@ -1,6 +1,6 @@
 ---
 published: true
-title: Bode
+title: Bode! 
 layout: post
 ---
 
