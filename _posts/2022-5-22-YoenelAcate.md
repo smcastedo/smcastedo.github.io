@@ -1,6 +1,6 @@
 ---
 published: true
-title: Acatenango
+title: Acate
 layout: post
 ---
 
