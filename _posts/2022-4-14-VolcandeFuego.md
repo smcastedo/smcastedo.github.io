@@ -7,5 +7,5 @@ layout: post
 
 ![]({{site.baseurl}}/images/Volcan%20vertical.jpg?raw=true)
 
-### Volcán
-Dec 18, 2021
+### Volcán de Fuego
+Capture Date: Dec 18, 2021
