@@ -1,6 +1,6 @@
 ---
-published: true
-title: Volcán Acatenango-Fuego
+published: false
+title: Volcán de Fuego
 layout: post
 ---
 
