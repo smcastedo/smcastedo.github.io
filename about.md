@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-[smier@santiagomier.com](mailto:email@domain.com)
+[smcastedo@outlook.com](mailto:email@domain.com)
