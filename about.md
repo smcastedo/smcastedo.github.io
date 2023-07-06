@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Santiago Mier Castedo
+title: Mier Castedo Santiago
 permalink: /about/
 published: true
 ---
 
-[smcastedo@outlook.com](mailto:email@domain.com)
+[smier@santiagomier.com](mailto:email@domain.com)
