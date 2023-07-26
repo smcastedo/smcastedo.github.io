@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Santiago Mier
+title: Mier, Santiago
 permalink: /about/
 published: true
 ---
