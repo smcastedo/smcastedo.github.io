@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mier Castedo Santiago
+title: Santiago Mier
 permalink: /about/
 published: true
 ---
