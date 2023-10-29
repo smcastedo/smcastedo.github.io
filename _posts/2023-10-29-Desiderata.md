@@ -1,6 +1,6 @@
 ---
 published: true
-title:
+title: Desiderata
 layout: post
 ---
 
