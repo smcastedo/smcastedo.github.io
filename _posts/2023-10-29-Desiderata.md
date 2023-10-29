@@ -4,6 +4,8 @@ title:
 layout: post
 ---
 
+![]({{site.baseurl}}/images/AcatenangoDeMañana-02.jpg)
+
 ## Desiderata
 
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
@@ -27,3 +29,5 @@ Beyond a wholesome discipline, be gentle with yourself. You are a child of the u
 And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
 
 by Max Ehrmann ©1927
+
+Capture Date: Dec 18, 2021
