@@ -1,9 +1,10 @@
 ---
 published: true
-title: Desiderata
+title:
 layout: post
 ---
 
+##Desiderata
 
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
 
