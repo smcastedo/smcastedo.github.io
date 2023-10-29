@@ -4,6 +4,7 @@ title:
 layout: post
 ---
 
+
 ![]({{site.baseurl}}/images/AcatenangoDeMañana-02.jpg)
 
 ## Desiderata
