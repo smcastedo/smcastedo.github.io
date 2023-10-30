@@ -5,7 +5,7 @@ layout: post
 ---
 
 
-![](https://raw.githubusercontent.com/smcastedo/smcastedo.github.io/master/images/AcatenangoDeMañana-02.jpg)
+![]({{site.baseurl}}/images/Acatenangointhemorning.jpg)
 
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
 
