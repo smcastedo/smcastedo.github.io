@@ -1,5 +1,6 @@
 ---
 published: true
+title: Volcán de Fuego
 layout: post
 ---
 
